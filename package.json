@@ -1,0 +1,24 @@
+{
+  "name": "projeto-gpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanersbh/projeto-gpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanersbh/projeto-gpg/issues"
+  },
+  "homepage": "https://github.com/wanersbh/projeto-gpg#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.0",
+    "@commitlint/config-conventional": "^18.4.0",
+    "husky": "^8.0.3"
+  }
+}
